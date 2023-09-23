@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Detalles</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">noticias0</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-card *ngFor="let notis of listNoticias">
+    <ion-card-header>
+      <ion-card-title  class="title" color="primary">{{ notis.title }}</ion-card-title>
+      <img [src]="notis.url_imag" alt="{{ notis.title }}">
+      
+    </ion-card-header>
+
+    <ion-card-content style="text-decoration: prymary;">
+      <p style="font-size: 15px;">{{notis.text_long}}.</p> 
+    </ion-card-content >
+    <ion-icon color="success" name="heart" class="tres-iconos"></ion-icon>
+    <ion-icon color="success" name="eye" class="tres-iconos"></ion-icon>
+    <ion-icon color="success" name="attach" class="tres-iconos"></ion-icon>
+  </ion-card>
+</ion-content>

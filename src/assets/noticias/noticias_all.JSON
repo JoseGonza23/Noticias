@@ -1,0 +1,104 @@
+[
+    {
+        "noticias": {
+            "name": "All",
+            "date": "2023-07-30",
+            "show": true,
+            "categorys": [
+                {
+                    "name": "Formación",
+                    "value": "formacion"
+                },
+                {
+                    "name": "Cordinación",
+                    "value": "cordinacion"   
+                },
+                {
+                    "name": "Novedades",
+                    "value": "novedades"
+                },
+                {
+                    "name": "Otros",
+                    "value": "otros"
+                }
+            ]
+
+        },
+        "detailNoticias": [
+            {
+                "title": "Gobierno Petro aumentó pago por prestar el servicio militar",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Este incremento es posible gracias a la firma del Decreto 1557 del 21 de septiembre de 2023, por parte de los ministros de Defensa, Iván Velásquez; de Hacienda, Ricardo Bonilla, y del director del Departamento Administrativo de la Función Pública, César Augusto Manrique",
+                "text_long": "En la mañana de este viernes, el gobierno de Gustavo Petro anunció que se incrementó la bonificación o pago para los colombianos que están prestando su servicio militar.La bonificación pasó del 30 al 50 por ciento del salario mínimo legal vigente, es decir, que ahora mensualmente los jóvenes recibirán 580.000 pesos . Este incremento es posible gracias a la firma del Decreto 1557 del 21 de septiembre de 2023, por parte de los ministros de Defensa, Iván Velásquez; de Hacienda, Ricardo Bonilla, y del director del Departamento Administrativo de la Función Pública, César Augusto Manrique. Esta norma, además, materializa una de las iniciativas del presidente Gustavo Petro, consignada en el Plan Nacional de Desarrollo.",
+                "url_imag": "https://razonpublica.com/wp-content/uploads/2022/05/ejercito-nacional-Colombia-militares-ejercito-elecciones-Alejandra-Ortiz-Viviana-Garzon.jpg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Maluma se molestó con fanática que trató de besarlo",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Los artistas, sobre todo aquellos que gozan un prestigio de talla internacional, tienen que lidiar con todo tipo de diversos fanáticos, que en su locura y amor por estos personajes mediáticos, hacen cualquier cosa por estar cerca o tener un momento memorable.",
+                "text_long": "Los artistas, sobre todo aquellos que gozan un prestigio de talla internacional, tienen que lidiar con todo tipo de diversos fanáticos, que en su locura y amor por estos personajes mediáticos, hacen cualquier cosa por estar cerca o tener un momento memorable. Pues al cantante paisa, Maluma, se encontró en una situación incómoda en la que una fanática trató de besarlo a la fuerza, el cantante la rechazó de manera vehemente, tanto que los escoltas tuvieron que proteger al intérprete de ‘Felices los 4’.",
+                "url_imag": "https://www.eltiempo.com/files/article_main_1200/uploads/2023/09/22/650e01b622393.jpeg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Messi habló sobre la posibilidad de obtener otro balón de oro",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Lio Messi no para de dar de qué hablar, y es que el astro argentino ha hecho méritos desde siempre, pero ahora, con su llegada a Inter Miami, sigue sumando puntos en esta disciplina,",
+                "text_long": "Lionel Messi ha causado furor durante todo el 2023. El astro argentino, que dejó atrás su extensa carrera en Europa para convertirse en jugador del Inter Miami de la MLS, siempre está en boca de sus seguidores y de la prensa.Ahora bien, últimamente es bastante común ver a Messi dando entrevistas a diferentes medios de comunicación. Allí, el jugador siempre expresa temas que tienen que ver con el fútbol, con su familia y con la trayectoria que ha tenido hasta el momento.Pues bien, en este caso, un canal de YouTube llamado ‘OLGA’ subió una entrevista, este jueves 21 de septiembre, que le realizó a Messi. La persona encargada de conducir el diálogo fue Migue Granados, un reconocido comediante argentino que aprovechó el momento para sacarle interesantes respuestas al ‘10′.",
+                "url_imag": "https://www.elpais.com.co/resizer/0_Rnf6V5DhcGTzAwzymMPV_PC6w=/1280x720/smart/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/semana/P37ZYZ332NBGHANH4SP36JSMAE.jpg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Carro bomba que explotó en Jamundí",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Con el paso de las horas se conocen nuevos detalles de cómo, al parecer, fue planeado el ataque con carro bomba que explotó en la mañana de este viernes, 22 de septiembre, en el municipio de Jamundí",
+                "text_long": "Con el paso de las horas se conocen nuevos detalles de cómo, al parecer, fue planeado el ataque con carro bomba que explotó en la mañana de este viernes, 22 de septiembre, en el municipio de Jamundí, exactamente en el corregimiento Potrerito, de esa localidad del Valle del Cauca.Entre las revelaciones de las autoridades está la procedencia del carro que fue utilizado para propinar el atentado terrorista. De acuerdo con el coronel Wilson Parada González, subcomandante Policía Metropolitana Santiago de Cali, el mismo ya había sido utilizado en otro hecho criminal.",
+                "url_imag": "https://www.semana.com/resizer/RswibsvZnIdqv3n4M-9mMiFzEP4=/1280x720/smart/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/semana/H2BKTGA5YZEMBH5GCCJSGNGQIY.jpeg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Manifestaciones hoy en Bogotá: bloqueo en Patio Bonito afecta la movilidad",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "La información preliminar apunta que los responsables del bloqueo son bicitaxistas en la avenida Ciudad de Cali con calle 42F. TransMilenio informó que se interrumpió el paso por ambos sentidos.",
+                "text_long": "Este viernes 22 de septiembre se presentaron manifestaciones en Bogotá, donde los responsables del bloqueo fueron bicitaxistas, especialmente en la avenida Ciudad de Cali con calle 42F. TransMilenio informó que se interrumpió el paso por ambos sentidos.La flota troncal inició con retornos por la glorieta de la avenida Ciudad de Cali con Américas y se dejó de operar servicio en Portal Américas y estaciones Patio Bonito y Biblioteca Tintal.",
+                "url_imag": "https://www.semana.com/resizer/IrFSzr6-ThmQZ9ozKGm6TeZmdB4=/fit-in/1280x0/smart/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/semana/T6KJUKXGTBGGZGKAFZTO2CCUKY.png",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Google Maps está en serios problemas después de llevar por el camino de la muerte a una persona",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Google vuelve a acaparar los titulares de la prensa debido a una demanda presentada por la familia de Philip Paxson, un hombre residente en Carolina del Norte, el cual falleció por una mala indicación que le sugirió la aplicación Google Maps",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://www.semana.com/resizer/-xD06_CMDqKjJWiqKKXkMd_eIrs=/1280x720/smart/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/semana/HQMA3SADHRBBFGGQDYE3PG6NWQ.jpg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Yeison Jiménez reveló el luto que carga y que no ha podido superar",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Yeison Jiménez uno de los artistas de música popular más queridos del país, ha contado en repetidas ocasiones los esfuerzos que tuvo que hacer para su consolidar su carrera y hasta los manos pasos que dejó para cumplir su nuevo de ser cantante",
+                "text_long": "En la actualidad, la música popular está teniendo un crecimiento exponencial y se ha destacado en importantes listas de reproducción a nivel mundial, y a pesar de que en varios países de Latinoamérica cada día surgen más artistas enfocados en este género, Colombia cuenta con grandes cantantes que han conseguido un gran reconocimiento debido a la popularización de sus famosas y pegajosas canciones. Dentro de esta extensa lista se encuentra Yeison Orlando Jiménez Galeano, mejor conocido en la industria musical como Yeison Jiménez, quien alcanzó la fama al interpretar temas como Aventurero, Ni te tengo ni te necesito y Que tonto soy.",
+                "url_imag": "https://files.alerta.rcnradio.com/alerta_bogota/public/styles/article_desktop/public/2022-09/yeison_jimenez.jpg?azv6YEPp9mq.3HjkFpSZ7fYHLwzdyotz&h=99a541cf&itok=bcQTk0Ob",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title":"La terrorífica película de Five Nights at Freddy's",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Continúan llegando más y más adaptaciones de videojuego al sector cinematográfico. Después de The Last of Us en televisión ahora toca adentrarse en el terrorífico mundo de Five Nights at Freddy's, que tiene prevista su llegada a salas comerciales el próximo 1 de noviembre.",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://media.vandalsports.com/i/1706x960/9-2023/202392212145_1.jpg.webp",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            }
+            
+        ]             
+
+    }
+]

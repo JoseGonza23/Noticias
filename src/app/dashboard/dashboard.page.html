@@ -1,0 +1,57 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Sena</ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true" >
+
+<div class="bg-color-panel height-head">
+  <ion-list color="transparent">
+    <ion-item color="transparent" lines="none">
+      <ion-button *ngFor="let cat of listCategorys" class="" color="success">{{cat.name}}</ion-button>
+    </ion-item>
+  </ion-list>
+</div>     
+  
+
+
+
+
+
+<ion-item>
+  <ion-label><ion-title style="color: #51EA33 ;">Noticias</ion-title></ion-label>
+</ion-item>
+
+  
+
+<br>
+
+<!-- tarjeta 1-->
+
+<ion-card *ngFor="let notis of listNoticias" [routerLink]="['/home']">
+    <ion-grid>
+      <ion-row>
+        <ion-col size="4">
+          <img src="{{notis.url_imag}}" alt="">
+        </ion-col>
+        <ion-col size="8">
+          <ion-card-header>
+            <ion-card-title color="primary"><h3>{{notis.title}}</h3></ion-card-title>
+          </ion-card-header>
+        
+          <ion-card-content style="text-decoration: prymary;">
+            <p style="font-size: 15px;">{{notis.text_small}}.</p> 
+          </ion-card-content>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </ion-card>
+
+
+
+
+
+
